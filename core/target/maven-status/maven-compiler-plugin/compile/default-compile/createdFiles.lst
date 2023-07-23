@@ -1,0 +1,4 @@
+com\lambarki\core\events\ProductReservedEvent$ProductReservedEventBuilder.class
+com\lambarki\core\commands\ReserveProductCommand$ReserveProductCommandBuilder.class
+com\lambarki\core\commands\ReserveProductCommand.class
+com\lambarki\core\events\ProductReservedEvent.class
